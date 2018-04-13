@@ -13,4 +13,5 @@ yarn-error.log*
 *.njsproj
 *.sln
 
+/build/contracts
 /src/contracts
